@@ -7,9 +7,8 @@
   <img src="img src="https://raw.githubusercontent.com/Hindbd/Hindbd/refs/heads/main/gif" alt="Cute GIF"/>
 </p> -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/fe/f4/1f/fef41f9945b81122f30e216d02efd0a7.gif" alt="Cute GIF" width="300"/>
+  <img src="https://i.pinimg.com/originals/fe/f4/1f/fef41f9945b81122f30e216d02efd0a7.gif" alt="Cute GIF" width="450"/>
 </p>
-
 <!--
 **Hindbd/Hindbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
