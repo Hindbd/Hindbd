@@ -1,5 +1,4 @@
 <h2 align="center">Hi, I'm Hind 👋</h2>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <!--
 **Hindbd/Hindbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
