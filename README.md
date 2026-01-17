@@ -3,8 +3,11 @@
 <h3 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B2D9&width=435&lines=Cybersecurity+Engineer+%F0%9F%94%90" alt="Typing SVG" /></a></h3>
 </p>
 <!-- <p align="center"><a><img src="https://raw.githubusercontent.com/Hindbd/Hindbd/refs/heads/main/gif"/></a></p> -->
-<p align="center">
+<!-- <p align="center">
   <img src="img src="https://raw.githubusercontent.com/Hindbd/Hindbd/refs/heads/main/gif" alt="Cute GIF"/>
+</p> -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/fe/f4/1f/fef41f9945b81122f30e216d02efd0a7.gif" alt="Cute GIF" width="300"/>
 </p>
 
 <!--
