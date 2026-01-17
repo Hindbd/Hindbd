@@ -9,17 +9,18 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/fe/f4/1f/fef41f9945b81122f30e216d02efd0a7.gif" alt="Cute GIF" width="450"/>
 </p>
+
 <!--
-**Hindbd/Hindbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+tools and stuff
 -->
+<h3 align="center">Languages and Tools:</h3>
+<div align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-ffd343?logo=python&logoColor=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
+<img alt="Static Badge" src="http://img.shields.io/badge/-Powershell-darkblue?style=flat&logo=powershell&logoColor=fff">
+<img alt="Static Badge" src="https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff">
+</div>
