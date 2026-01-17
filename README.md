@@ -1,4 +1,7 @@
 <h2 align="center">Hi, I'm Hind 👋</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=28&pause=900&color=F5A9C5&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Hind+✨;Cybersecurity+Engineer+🔐;Blue+Team+%7C+SOC+Analyst" />
+</p>
 
 <!--
 **Hindbd/Hindbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
