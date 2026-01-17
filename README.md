@@ -1,5 +1,7 @@
 <h2 align="center">Hi there, I'm Hind 🌸</h2>
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B2D9&width=435&lines=Cybersecurity+Engineer+%F0%9F%94%90" alt="Typing SVG" /></a>
+</p>
 
 <!--
 **Hindbd/Hindbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
